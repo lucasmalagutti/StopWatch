@@ -12,3 +12,4 @@ c:\Users\lucas\StopWatch\obj\Debug\net8.0\refint\StopWatch.dll
 c:\Users\lucas\StopWatch\obj\Debug\net8.0\StopWatch.pdb
 c:\Users\lucas\StopWatch\obj\Debug\net8.0\StopWatch.genruntimeconfig.cache
 c:\Users\lucas\StopWatch\obj\Debug\net8.0\ref\StopWatch.dll
+C:\Users\lucas\StopWatch\obj\Debug\net8.0\StopWatch.sourcelink.json
